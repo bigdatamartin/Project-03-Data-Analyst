@@ -28,17 +28,17 @@ La información que se utilizó para este análisis fue obtenida de los datasets
 
 ---
 
-### EDA - Análisis Exploratorio de Datos
-
-Se realizó el análisis directamente desde Power BI importando los datasets previamente descargados en formato CSV. Transformando los tipos de datos a los que se consideraron correctos, y creando una nueva columna en todos los datasets denominada "Fecha" para tener una mejor representación en los graficos cuando se aplica el filtro temporal.
-
----
-
 ### Declaración de Objetivos
 
 * Desarrollar un análisis para determinar la situación actualizada del Internet en la República Argentina.
 * Crear un índice de medición para la calidad de acceso a Internet en la República Argentina.
 * Ubicar en la comparación, cómo se encuentra la República Argentina en relación a la región.
+
+---
+
+### EDA - Análisis Exploratorio de Datos
+
+Se realizó el análisis directamente desde Power BI importando los datasets previamente descargados en formato CSV. Transformando los tipos de datos a los que se consideraron correctos, y creando una nueva columna en todos los datasets denominada "Fecha" para tener una mejor representación en los graficos cuando se aplica el filtro temporal.
 
 ---
 
