@@ -1,6 +1,6 @@
 ## **Informe EDA (Análisis Exploratorio de Datos)**
 
-![1672890645165](image/InformeEDA/1672890645165.png)
+![1672890645165](image/README/1672890645165.png)
 
 ### Contexto
 
@@ -18,13 +18,13 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me e
 
 La información que se utilizó para este análisis fue obtenida de los datasets que se encuentran en el sitio oficial del [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) y del sitio oficial de la Camara Argentina de Internet - [CABASE](file:///D:/Descargas/CABASE-Internet-Index-II-Semestre-2019.pdf).
 
-![1672896318572](image/InformeEDA/1672896318572.png)
+![1672896318572](image/README/1672896318572.png)
 
-![1672896352169](image/InformeEDA/1672896352169.png)
+![1672896352169](image/README/1672896352169.png)
 
-![1672896409022](image/InformeEDA/1672896409022.png)
+![1672896409022](image/README/1672896409022.png)
 
-![1672896448519](image/InformeEDA/1672896448519.png)
+![1672896448519](image/README/1672896448519.png)
 
 ---
 
@@ -46,15 +46,15 @@ Se realizó el análisis directamente desde Power BI importando los datasets pre
 
 Penetración
 
-![1672896598000](image/InformeEDA/1672896598000.png)
+![1672896598000](image/README/1672896598000.png)
 
 Velocidad / Tecnologías (dos KPI's en un solo dashboard)
 
-![1672896664657](image/InformeEDA/1672896664657.png)
+![1672896664657](image/README/1672896664657.png)
 
 Indice AcciOn (Acceso + Conexión)
 
-![1672896702848](image/InformeEDA/1672896702848.png)
+![1672896702848](image/README/1672896702848.png)
 
 ---
 
@@ -64,4 +64,4 @@ Indice AcciOn (Acceso + Conexión)
 * Si bien la posición Argentina es muy buena, aún quedan aspectos por mejorar como las tecnologías y la velocidad.
 * Se observaron inconvenientes en la continuidad del desarrollo de forma sostenida entre cambios de gobiernos.
 
-![1672896935001](image/InformeEDA/1672896935001.png)
+![1672896935001](image/README/1672896935001.png)
