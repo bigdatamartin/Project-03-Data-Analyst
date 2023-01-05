@@ -16,7 +16,7 @@ En este contexto, una empresa prestadora de servicios de telecomunicaciones me e
 
 ### Fuente de datos
 
-La información que se utilizó para este análisis fue obtenida de los datasets que se encuentran en el sitio oficial del [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) y del sitio oficial de la Camara Argentina de Internet - [CABASE](file:///D:/Descargas/CABASE-Internet-Index-II-Semestre-2019.pdf).
+La información que se utilizó para este análisis fue obtenida de los datasets que se encuentran en el sitio oficial del [ENACOM](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/) y del sitio oficial de la Camara Argentina de Internet - [CABASE](https://www.cabase.org.ar/wp-content/uploads/2019/12/CABASE-Internet-Index-II-Semestre-2019.pdf).
 
 ![1672896318572](image/README/1672896318572.png)
 
