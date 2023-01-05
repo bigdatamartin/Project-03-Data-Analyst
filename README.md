@@ -40,6 +40,8 @@ La información que se utilizó para este análisis fue obtenida de los datasets
 
 Se realizó el análisis directamente desde Power BI importando los datasets previamente descargados en formato CSV. Transformando los tipos de datos a los que se consideraron correctos, y creando una nueva columna en todos los datasets denominada "Fecha" para tener una mejor representación en los graficos cuando se aplica el filtro temporal.
 
+*Para acceder al informe detallado por favor [ingresar aquí](https://github.com/bigdatamartin/pi-03-henry-data-analyst/blob/main/Informe-EDA.md).*
+
 ---
 
 ### Creación y desarrollo de KPI's
@@ -63,5 +65,3 @@ Indice AcciOn (Acceso + Conexión)
 * Argentina, en comparación con la región, está a la vanguardia en el acceso a internet.
 * Si bien la posición Argentina es muy buena, aún quedan aspectos por mejorar como las tecnologías y la velocidad.
 * Se observaron inconvenientes en la continuidad del desarrollo de forma sostenida entre cambios de gobiernos.
-
-![1672896935001](image/README/1672896935001.png)
