@@ -1,4 +1,4 @@
-## **Informe EDA (Análisis Exploratorio de Datos)**
+## **Proyecto Individual 03 - Henry - Data Analyst**
 
 ![1672890645165](image/README/1672890645165.png)
 
