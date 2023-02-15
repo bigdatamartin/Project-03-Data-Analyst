@@ -89,13 +89,13 @@ Evolución Trimestral Penetración Internet  |  Variación en los Tipos de Tecno
 
 ### Dashboards
 
-Para acceder a los dashboards por favor acceder al archivo "pi-henry-03.pbix"
+Para acceder a los dashboards por favor ingresar [aquí](https://github.com/bigdatamartin/Project-03-Data-Analyst/blob/main/pi-henry-03.pbix) y descargar el archivo.
 
 ---
 
 ### Presentación del Análisis
 
-Para acceder a la presentación final del Análisis, con explicaciones y anotaciones, por favor acceder al archivo "Presentación-pi-henry-03.pptx"
+Para acceder a la presentación final del Análisis, con explicaciones y anotaciones, por favor ingresar [aquí](https://github.com/bigdatamartin/Project-03-Data-Analyst/blob/main/Presentacion-pi-henry-03.pptx) y descargar el archivo.
 
 ---
 
